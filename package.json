@@ -45,7 +45,6 @@
     "main": "dist/index.js",
     "name": "@jms-1/react-validated-model",
     "prettier": "@insynergie/prettier-config",
-    "private": true,
     "repository": {
         "type": "git",
         "url": "git@github.com:JMS-1/react-validated-model.git"
