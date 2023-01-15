@@ -9,5 +9,4 @@ yarn-error.lock
 
 /storybook-static
 
-/dist/**/*
-!/dist/index.*
+/dist

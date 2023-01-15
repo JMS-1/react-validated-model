@@ -48,5 +48,5 @@
         "watch": "webpack watch",
         "watch:story": "start-storybook -p 29600"
     },
-    "version": "0.1.0"
+    "version": "0.1.1"
 }
