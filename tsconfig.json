@@ -1,0 +1,25 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "declaration": true,
+        "experimentalDecorators": true,
+        "forceConsistentCasingInFileNames": true,
+        "inlineSources": true,
+        "jsx": "react",
+        "module": "esnext",
+        "moduleResolution": "node",
+        "newLine": "lf",
+        "noEmitOnError": true,
+        "noImplicitAny": true,
+        "noUnusedLocals": true,
+        "outDir": "dist",
+        "removeComments": true,
+        "skipLibCheck": true,
+        "sourceMap": true,
+        "strictNullChecks": true,
+        "strictPropertyInitialization": false,
+        "target": "es2019"
+    },
+    "include": ["src/**/*.ts", "src/**/*.tsx"]
+}

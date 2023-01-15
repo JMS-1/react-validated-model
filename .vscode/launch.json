@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "linux": {
+                "runtimeExecutable": "/snap/bin/chromium"
+            },
+            "name": "Debug",
+            "port": 29601,
+            "request": "launch",
+            "runtimeArgs": ["--remote-debugging-port=29601", "--new-window"],
+            "sourceMaps": true,
+            "type": "chrome",
+            "url": "http://localhost:29600",
+            "userDataDir": "${workspaceFolder}/.vscode/chrome",
+            "webRoot": "${workspaceFolder}"
+        }
+    ],
+    "version": "0.2.0"
+}
