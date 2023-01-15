@@ -45,6 +45,7 @@
     "main": "dist/index.js",
     "name": "@jms-1/react-validated-model",
     "prettier": "@insynergie/prettier-config",
+    "private": true,
     "repository": {
         "type": "git",
         "url": "git@github.com:JMS-1/react-validated-model.git"
@@ -56,5 +57,5 @@
         "watch": "webpack watch",
         "watch:story": "start-storybook -p 29600"
     },
-    "version": "0.1.1"
+    "version": "0.1.0"
 }
