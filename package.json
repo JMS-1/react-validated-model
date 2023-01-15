@@ -57,5 +57,5 @@
         "watch:story": "start-storybook -p 29600"
     },
     "types": "dist/index.d.ts",
-    "version": "0.1.1"
+    "version": "0.1.2"
 }
