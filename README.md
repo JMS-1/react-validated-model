@@ -1,4 +1,4 @@
-# React Hook für View-Modelle mit Prüfung
+# React Hook für Datenmodelle mit Prüfung
 
 Implementiert für DTO(Data Transfer Object)s - also reine JSON Objekte wie man sie über diverse HTTP/REST/GraphQL erhält.
 

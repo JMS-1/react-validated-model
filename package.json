@@ -1,10 +1,13 @@
 {
+    "author": "Dr. Jochen Manns <vcrnet-1@psimarron.net>",
+    "bugs": "https://github.com/JMS-1/react-validated-model/issues",
     "dependencies": {
         "clsx": "^1.2.1",
         "fastest-validator": "^1.16.0",
         "react": "^18.2.0",
         "react-dom": "^18.2.0"
     },
+    "description": "React Hook for Model Management with Validation",
     "devDependencies": {
         "@babel/core": "^7.20.12",
         "@insynergie/eslint-config": "^2.1.1",
@@ -36,11 +39,16 @@
         "webpack-cli": "^5.0.1",
         "webpack-node-externals": "^3.0.0"
     },
+    "homepage": "https://github.com/JMS-1/react-validated-model",
     "license": "MIT",
     "licenseComment": "see https://spdx.org/licenses/",
     "main": "dist/index.js",
     "name": "@jms-1/react-validated-model",
     "prettier": "@insynergie/prettier-config",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:JMS-1/react-validated-model.git"
+    },
     "scripts": {
         "build": "rimraf dist && webpack build --env production --no-stats",
         "build:story": "rimraf storybook-static && build-storybook --quiet",
